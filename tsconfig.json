@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "target": "ES3",
+    "module": "commonjs",
+    "noEmitOnError": false,
+    "watch": false
+  },
+  "files": [
+    "YNC.ts"
+  ]
+}
